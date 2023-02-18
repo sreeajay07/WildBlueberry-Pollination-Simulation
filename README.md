@@ -36,6 +36,7 @@ Figure 1. A simulated wild blueberry field on Julian date 136 of the production 
 This article presents the dataset of 777 records. The data is associated with the article [1]. A detailed description of the extracted features is shown in Table 1.
 Table 1. Features and their description 
 
+https://github.com/sreeajay07/WildBlueberry-Pollination-Simulation/blob/main/Screenshot%202023-02-18%20at%201.52.46%20PM.png
 
 An initial investigation of the simulation derived data was conducted to determine distributional patterns described by a statistical summary (Table 2).
 Table 2. Field spatial traits, bee species composition and weather variables associated with wild blueberry yield (minimum, maximum, mean, std. deviation, and correlation coefficient r) in the simulated dataset.
