@@ -12,7 +12,7 @@ wild blueberry, yield, prediction, multiple linear regression, random forest, bo
 
 Specifications Table
 
-
+https://github.com/sreeajay07/WildBlueberry-Pollination-Simulation/blob/main/Screenshot%202023-02-18%20at%201.50.41%20PM.png
 
 Value of the Data
 The dataset provides useful information on wild blueberry plant spatial traits, bee species composition and weather conditions. Therefore, it enables researchers to build machine learning models for early prediction of blueberry yield. 
