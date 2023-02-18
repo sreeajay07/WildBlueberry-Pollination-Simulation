@@ -55,6 +55,10 @@ For machine learning model development and analysis, the calibrated version of t
 Table 3. Parameters used to configure the simulation experiments
 
 
+https://github.com/sreeajay07/WildBlueberry-Pollination-Simulation/blob/main/Screenshot%202023-02-18%20at%201.53.31%20PM.png
+
+
+
 2.2 Preprocessing
 In order to make the dataset more useful, some pre-processing tasks should be performed. The data includes 13 independent variables and in a dataset, there may be features that are not completely relevant or spurious and thus not explanatory of blueberry yield.  The contribution of these types of features is often low for predictive modelling compared to the most significant features obtained as the result of feature selection. As a result, we used Python scikit-learn library version 0.21.3 [4] for this task of pre-processing i.e. feature selection. The selected features were later applied to train and build the machine learning models.
 
